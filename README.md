@@ -6,7 +6,7 @@ Soft Launch Repo to sign CLAs, whitelist your employees, and confirm affiliation
 1. Select the appropriate option (Corporate or Individual)
 1. Consult the resources below for additional instructions and step-by-step guides.
 
-Here are some resources I hope you'll find useful
+Here are some resources I hope you'll find usefullkj
 
 EasyCLA home page: https://lfcla.com/
 
