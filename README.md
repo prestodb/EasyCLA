@@ -16,6 +16,6 @@ Corporate Manager Whitelisting process walkthrough: https://youtu.be/ixzo4XAjXwA
 
 EasyCLA Help Docs: https://github.com/communitybridge/easycla/tree/master/docs
 
-Contributor Docs: https://github.com/communitybridge/easycla/blob/master/docs/contribute-to-a-gerrit-project.md
+Contributor Docs: htasdftps://github.com/communitybridge/easycla/blob/master/docs/contribute-to-a-gerrit-project.md
 
 EasyCLA Support Ticket Queue: https://jira.linuxfoundation.org/servicedesk/customer/portal/4
