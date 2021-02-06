@@ -1,21 +1,11 @@
-# EasyCLA
-Soft Launch Repo to sign CLAs, whitelist your employees, and confirm affiliations before their enforced across the organization.
+# CLA Onboarding Repo
 
-1. Open a PR against this repo
-1. Click on the link to sign a CLA or the Details link next to the EasyCLA Check
-1. Select the appropriate option (Corporate or Individual)
-1. Consult the resources below for additional instructions and step-by-step guides.
+Presto can only accept contributions under a CLA. We use the EasyCLA tool to ensure that all contributors have signed the appropriate documents.
 
-Here are some resources I hope you'll find useful
+This is a neutral repo where you can open a trivial PR and initiate the [EasyCLA signing process](https://github.com/prestodb/tsc/blob/master/CLA.md). Please note that you can use this repo to sign the documents in advance, or you can skip straight to opening a PR against a project. Either way you will be directed through the same signing process.
 
-EasyCLA home page: https://lfcla.com/
+Once you have signed as an individual or been added to your company's approved contributors list you will not be prompted to sign the CLA again.
 
-YouTube Contributor Walkthrough: https://youtu.be/XQcRBuIPQVY
+All PRs will be closed periodically.
 
-Corporate Manager Whitelisting process walkthrough: https://youtu.be/ixzo4XAjXwA
-
-EasyCLA Help Docs: https://github.com/communitybridge/easycla/tree/master/docs
-
-Contributor Docs: https://github.com/communitybridge/easycla/blob/master/docs/contribute-to-a-gerrit-project.md
-
-EasyCLA Support Ticket Queue: https://jira.linuxfoundation.org/servicedesk/customer/portal/4
+To learn more about this process, [please visit the Presto TSC repository](https://github.com/prestodb/tsc/blob/master/CLA.md).
